@@ -1,5 +1,7 @@
 # Automated-Biological-Dynamical-Systems-Simulator
+
 DESCRIPTION AND MOTIVATION:
+
 The software was developed to automate proccess of visualiztion of mathematically described dynamical systems. Primary focus is for biological systems (like prey-predetory models), but can be used for non-biological systems as well. Additionally software allows to visualize the vector field of the system - the direction of the evoution of the system.
 
 USAGE:
